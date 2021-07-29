@@ -2,7 +2,7 @@
 
 1. instalar o emailjs (se estiver usando React) com `npm i emailjs`
 2. criar uma conta no emailjs https://dashboard.emailjs.com/sign-in
-3. ao logar, clicar em Add New Service, depois em Gmail (o que eu usei). **GUARDAR O ID DO SERVIÇO**
+3. ao logar, clicar em Add New Service, depois em Gmail (o que eu usei). Conecte sua conta do Gmail e **GUARDAR O ID DO SERVIÇO**
 4. no painel à esquerda, em Integration, ***anotar o User ID que está no final da página***
 5. no painel à esquerda, clicar em Email Templates, depois Create New Template
 6. fazer qualquer mudança no template default e depois salvar (canto direito superior)
