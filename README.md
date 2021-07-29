@@ -32,5 +32,6 @@ window.onload = function () {
   });
 }
 ```
+12. seu_user_id, seu_service_id e seu_template_id todos vem dos passos anteriores
 
 ![image7](https://github.com/alestori/emailjs-guide/blob/master/code.png?raw=true)
